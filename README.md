@@ -71,5 +71,5 @@ A terminal-based **Battleship** game implemented in C++ as part of a university 
 ## 🙌 Credits
 
 Created by **Muhammad Saad Haroon**  
-Course Project — *Intro to Programming / Data Structures*  
+Course Project — *Intro to Programming*  
 LUMS — Spring 2022
